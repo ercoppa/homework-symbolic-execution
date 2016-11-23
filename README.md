@@ -21,7 +21,7 @@ Additional materials:
 
 ## Homework
 
-This homework requires to write an angr script for solving phase 5 (function `phase_5` at `0x401062`) of the binary [bomb](bomb/bomb). This binary contains 6 phases (plus one secret phase). Each phase requires to type in a string. If the string is valid, the binary proceeds running the next phase, otherwise the bomb explodes and the execution is terminated.
+This homework requires to write an angr script for solving phase 5 (function `phase_5` at `0x401062`) of the binary [bomb](bomb/bomb). This binary contains 6 phases (plus one secret phase). Each phase requires to type in a string. If the string is valid, the binary proceeds the execution towards the next phase, otherwise the bomb explodes and the execution is terminated.
 
 Requirements:
 - the script should print out a single (string) solution for phase 5
