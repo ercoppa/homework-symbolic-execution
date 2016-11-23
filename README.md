@@ -43,7 +43,7 @@ Send the angr script for solving phase 5 to coppa [at] dis.uniroma1.it
 
 ## Bonus (optional)
 
-[FLARE ON 2016] was the third annual reverse engineering contest hosted by the [FireEye] Labs Advanced Reverse Engineering team. 
+[FLARE ON 2016](https://2016.flare-on.com) was the third annual reverse engineering contest hosted by the [FireEye](https://www.fireeye.com/) Labs Advanced Reverse Engineering team. 
 The first challenge can be solved using a symbolic execution engine like angr. The student should analyze the [binary](flare-on/challenge1.exe) using a dissambler and write an angr script that is able to find a valid input string. The found string solves the challenge. To test a solution, you can run the binary under Windows.
 
 Send the angr script for solving the challenge to coppa [at] dis.uniroma1.it
