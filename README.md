@@ -1,6 +1,7 @@
 # Homework on Symbolic Execution
 
 Course: Data and Network Security (Sapienza University of Rome, Computer Science Department)
+
 Year: 2016/2017
 
 Lecture materials: [[slides](slides.pdf)]
@@ -24,7 +25,7 @@ Additional materials:
 This homework requires to write an angr script for solving phase 5 (function `phase_5` at `0x401062`) of the binary [bomb](bomb/bomb). This binary contains 6 phases (plus one secret phase). Each phase requires to type in a string. If the string is valid, the binary proceeds the execution towards the next phase, otherwise the bomb explodes and the execution is terminated.
 
 Requirements:
-- the script should print out a single (string) solution for phase 5
+- the script should find and print out a single (string) solution for phase 5
 - the solution should be composed by printable characters (i.e., a user can easily type in the generated string when running the binary)
 - the script should find a solution within a reasonable amount of time (e.g., less than 30 seconds) and using a limited amount of memory (e.g., less than 500MB).
 
