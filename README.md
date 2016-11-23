@@ -26,8 +26,10 @@ This homework requires to write an angr script for solving phase 5 (function `ph
 
 Requirements:
 - the script should find and print out a single (string) solution for phase 5
-- the solution should be composed by printable characters (i.e., a user can easily type in the generated string when running the binary)
-- the script should find a solution within a reasonable amount of time (e.g., less than 30 seconds) and using a limited amount of memory (e.g., less than 500MB).
+- the string solution should be composed by printable characters (i.e., a user can easily type in the generated string when running the binary)
+- the script should find a solution within a reasonable amount of time (e.g., less than 30 seconds) and using a limited amount of memory (e.g., less than 500MB)
+- the script should take benefit of the features offered by angr
+- the script should NOT perform a brute force attack or other similar techniques
 
 To test if a solution is valid, you can run the binary (under Linux 64bit):
 
@@ -41,7 +43,7 @@ And type in the following solutions:
 4. `7 0`
 
 Send the angr script for solving phase 5 to coppa [at] dis.uniroma1.it
-
+The script will be
 ## Bonus (optional)
 
 [FLARE ON 2016](https://2016.flare-on.com) was the third annual reverse engineering contest hosted by the [FireEye](https://www.fireeye.com/) Labs Advanced Reverse Engineering team. 
