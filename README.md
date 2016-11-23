@@ -2,7 +2,7 @@
 
 Course: Data and Network Security (Sapienza University of Rome, Computer Science Department)
 Year: 2016/2017
-Lecture materials: [slides](slides.pdf)
+Lecture materials: [[slides](slides.pdf)]
 Additional materials: 
  - initial example: [source](initial-example/main.c) [ELF 64-bit binary](initial-example/main) [angr script](initial-example/run.py) [makefile](initial-example/makefile)
  - bomb: [ELF 64-bit binary](bomb/bomb) [angr script phase 1](bomb/phase-1.py) [makefile](bomb/makefile)
