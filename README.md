@@ -43,7 +43,7 @@ And type in the following solutions:
 4. `7 0`
 
 Send the angr script for solving phase 5 to coppa [at] dis.uniroma1.it
-The script will be
+
 ## Bonus (optional)
 
 [FLARE ON 2016](https://2016.flare-on.com) was the third annual reverse engineering contest hosted by the [FireEye](https://www.fireeye.com/) Labs Advanced Reverse Engineering team. 
