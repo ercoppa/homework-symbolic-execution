@@ -17,7 +17,7 @@ Additional materials:
 - Install a dissambler. This is needed for analyzing the binaries. Some dissamblers:
     - [Linux / Mac OS]: [`objdump`](https://linux.die.net/man/1/objdump) (open source, only ELF binaries, easy to use, basic features)
     - [Linux / Mac OS / Windows]: [radare2](http://www.radare.org/r/) (open source, ELF and PE binaries, command line interface, advanced features)
-    - [Windows / Linux / Mac OS]: [IDA Pro](https://www.hex-rays.com/products/ida/) (proprietary, ELF and PE binaries, user-friendly, advanced features) *Note:* you can use the [demo](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) version of IDA Pro. Under Linux, you can use `wine` to run it under Linux.
+    - [Windows / Linux / Mac OS]: [IDA Pro](https://www.hex-rays.com/products/ida/) (proprietary, ELF and PE binaries, user-friendly, advanced features) **Note:** for our goals, you can use the [demo](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) version of IDA Pro. Under Linux, you can use `wine` to run it under Linux.
 
 ## Homework
 
