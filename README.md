@@ -34,10 +34,10 @@ To test if a solution is valid, you can run the binary (under Linux 64bit):
 
 And type in the following solutions:
 
-1. "Border relations with Canada have never been better."
-2. "1 2 4 8 16 32"
-3. "7 327"
-4. "7 0"
+1. `Border relations with Canada have never been better.`
+2. `1 2 4 8 16 32`
+3. `7 327`
+4. `7 0`
 
 Send the angr script for solving phase 5 to coppa [at] dis.uniroma1.it
 
