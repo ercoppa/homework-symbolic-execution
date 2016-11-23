@@ -6,14 +6,14 @@ Year: 2016/2017
 Lecture materials: [[slides](slides.pdf)]
 
 Additional materials: 
- - initial example: [source](initial-example/main.c) [ELF 64-bit binary](initial-example/main) [angr script](initial-example/run.py) [makefile](initial-example/makefile)
- - bomb: [ELF 64-bit binary](bomb/bomb) [angr script phase 1](bomb/phase-1.py) [makefile](bomb/makefile)
- - Flare ON 2016 - challenge 1: [PE32 executable binary](flare-on/challenge1.exe)
+ - initial example: [[source](initial-example/main.c)] [[ELF 64-bit binary](initial-example/main)] [[angr script](initial-example/run.py)] [[makefile](initial-example/makefile)]
+ - bomb: [[ELF 64-bit binary](bomb/bomb)] [[angr script phase 1](bomb/phase-1.py)] [[makefile](bomb/makefile)]
+ - Flare ON 2016 - challenge 1: [[PE32 executable binary](flare-on/challenge1.exe)]
 
 ## Preliminaries
 
-- Install [angr]. Although angr can run in both Mac OS and Microsoft Windows, it is suggested to run angr under Linux.
-- Check its [documentation]
+- Install [angr](http://angr.io/install.html). Although angr can run in both Mac OS and Microsoft Windows, it is suggested to run angr under Linux.
+- Check its [documentation](https://docs.angr.io/)
 - Install a dissambler. This is needed for analyzing the binaries. Some dissamblers:
     - [Linux / Mac OS]: [`objdump`](https://linux.die.net/man/1/objdump) (open source, only ELF binaries, easy to use, basic features)
     - [Linux / Mac OS / Windows]: [radare2](http://www.radare.org/r/) (open source, ELF and PE binaries, command line interface, advanced features)
