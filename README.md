@@ -30,6 +30,7 @@ Requirements:
 - the script should find a solution within a reasonable amount of time (e.g., less than 30 seconds) and using a limited amount of memory (e.g., less than 500MB)
 - the script should take benefit of the features offered by angr
 - the script should NOT perform a brute force attack or other similar techniques
+- the student should not exploit the knowledge of the string length when writing the script.
 
 To test if a solution is valid, you can run the binary (under Linux 64bit):
 
