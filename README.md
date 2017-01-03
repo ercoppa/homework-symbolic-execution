@@ -53,7 +53,7 @@ The first challenge can be solved using a symbolic execution engine like angr. T
 ## Homework report
 
 **[UPDATE]**
-In order to pass the homework is required to write a report. The report should have the following structure:
+In order to pass the homework, the student must write a report. The report should have the following structure:
 
 - header: student name/surname/_matricola_
 - abstract: briefly explain the goal of the homework, what methodologies and which tools have been used by the student
