@@ -65,7 +65,7 @@ The report should be no longer than 4 pages. The report should be written in eng
 Please, create an archive file containing:
 - the report (PDF)
 - angr script(s) (with comments)
-- a README file that explain the purpose of each file in the archive and how to run your scripts
+- a README file that explains the purpose of each file in the archive and how to run your scripts
 
 Send the archive to coppa [at] dis.uniroma1.it
 
