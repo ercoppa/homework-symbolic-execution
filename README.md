@@ -68,5 +68,6 @@ Please, create an archive file containing:
 - a README file that explain the purpose of each file in the archive and how to run your scripts
 
 Send the archive to coppa [at] dis.uniroma1.it
+***Notice that the report will be sent to Prof. Mancini for the final evaluatioon. Hence, make it clear and easy to read.***
 
 
