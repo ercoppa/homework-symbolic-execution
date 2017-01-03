@@ -54,11 +54,17 @@ Send the angr script for solving the challenge to coppa [at] dis.uniroma1.it
 
 ## Homework report
 
-**[UPDATE]** In order to pass the homework is required to write a report. The report should have the following structure:
+**[UPDATE]**
+In order to pass the homework is required to write a report. The report should have the following structure:
 
 - header: student name/surname/_matricola_
 - abstract: briefly explain the goal of the homework, what methodologies and which tools have been used by the student
 - introduction: explain the problem faced in this homework, how you have approached it, why you have used a specific tool, pros and cons of your appach, what are the alternatives appeached/tools that could have been used, etc.
 - technical description: a step by step description of what you have done to solve the homework, commenting the most relevant parts of your script. The should should discuss what features of angr have been used, why they are useful and so on. E.g., how do you have chone start/find/avoid addresses? What are the benefits of avoid addresses? What are the benefits of input constraints? What is a PathGroup? How different paths of program are explored by angr when using your script? BFS? DFS? etc.
 
+The report should be no longer than 4 pages.
 
+Please, create an archive file containing:
+- the report (PDF)
+- angr script(s) (with comments)
+- a README file
