@@ -58,7 +58,7 @@ In order to pass the homework, the student must write a report. The report shoul
 - header: student name/surname/_matricola_
 - abstract: briefly explain the goal of the homework, what methodologies and which tools have been used by the student
 - introduction: explain the problem faced in this homework, how you have approached it, why you have used a specific tool, pros and cons of your appach, what are the alternatives appeached/tools that could have been used, etc.
-- technical description: a step by step description of what you have done to solve the homework, commenting the most relevant parts of your script. The should should discuss what features of angr have been used, why they are useful and so on. E.g., how do you have chone start/find/avoid addresses? What are the benefits of avoid addresses? What are the benefits of input constraints? What is a PathGroup? How different paths of program are explored by angr when using your script? BFS? DFS? etc.
+- technical description: a step by step description of what you have done to solve the homework, commenting the most relevant parts of your script. The should should discuss what features of angr have been used, why they are useful and so on. E.g., how do you have chosen start/find/avoid addresses? What are the benefits of avoid addresses? What are the benefits of input constraints? What is a PathGroup? What is the difference between a Path and a PathGroup? How do you start the symbolic execution? How the different paths of program are explored by angr when using your script? BFS? DFS? etc.
 
 The report should be no longer than 4 pages.
 
