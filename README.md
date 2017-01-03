@@ -43,14 +43,12 @@ And type in the following solutions:
 3. `7 327`
 4. `7 0`
 
-Send the angr script for solving phase 5 to coppa [at] dis.uniroma1.it
 
 ## Bonus (optional)
 
 [FLARE ON 2016](https://2016.flare-on.com) was the third annual reverse engineering contest hosted by the [FireEye](https://www.fireeye.com/) Labs Advanced Reverse Engineering team. 
 The first challenge can be solved using a symbolic execution engine like angr. The student should analyze the [binary](flare-on/challenge1.exe) using a dissambler and write an angr script that is able to find a valid input string. To test a solution, you can run the binary under Windows.
 
-Send the angr script for solving the challenge to coppa [at] dis.uniroma1.it
 
 ## Homework report
 
@@ -67,4 +65,8 @@ The report should be no longer than 4 pages.
 Please, create an archive file containing:
 - the report (PDF)
 - angr script(s) (with comments)
-- a README file
+- a README file that explain the purpose of each file in the archive and how to run your scripts
+
+Send the archive to coppa [at] dis.uniroma1.it
+
+
